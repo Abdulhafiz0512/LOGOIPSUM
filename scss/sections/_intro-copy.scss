@@ -1,5 +1,4 @@
-#intro_bottom {
-    margin-top: 220px;
+#intro_copy {
     padding-top: 154px;
 
     .wrapper {
@@ -42,29 +41,27 @@
                 position: absolute;
 
                 &:nth-child(1) {
-                    top: -40px;
-                    left: 44px;
+
+                    top: -50px;
+                    left: 0px;
+
                 }
 
                 &:nth-child(2) {
-                    bottom: -11px;
-                    left: -56px;
+                    bottom: 100px;
+                    left: 350px;
                 }
 
                 &:nth-child(3) {
-                    top: 100px;
-                    right: 0px;
+                    top: -55px;
+                    right: 40px;
                 }
 
                 &:nth-child(4) {
-                    bottom: 100px;
-                    right: 0px;
+                    bottom: -130px;
+                    right: 60px;
                 }
             }
         }
     }
-}
-#engpasi{
-    display: flex;
-    flex-direction: column;
 }
